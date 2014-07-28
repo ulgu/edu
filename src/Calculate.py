@@ -1,7 +1,8 @@
 import math
 
 __author__ = 'ulfgun'
-# Detta är en test
+# This is a test
+# A new comment
 
 class Calculate:
     def Demo (self):
